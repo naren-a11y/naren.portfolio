@@ -105,13 +105,36 @@ section h2 {
     font-family: 'Nunito', sans-serif;
 }
 
+section h3{
+    font-size: 1.2rem;
+    color: #f0ece2;
+    font-family: 'Nunito', sans-serif;
+    margin-bottom: 4px;
+}
+
+section h4{
+    font-size: 0.9rem;
+    color: #c9a96e;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 8px;
+}
+
 section p {
-    font-size: 1rem;
+    font-size: 0.9rem;
     line-height: 1.7;
-    color: #9a9ab5;
+    color: #e8e8f0;
     font-family: 'Open Sans', sans-serif;
 }
 
+section span{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.85rem;
+    color: grey;
+}
+
+.entry {
+    margin-bottom: 30px;
+}
 footer {
     text-align: center;
     padding: 20px;
